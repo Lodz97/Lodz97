@@ -9,7 +9,7 @@ I'm a M.Sc. student in Computer Science and Engineering at Politecnico di Milano
 
 - 📡 I started by bachelor as an electronic engineer
 - 💻 After my first C lesson I devoted myself to Computer Science
-- 🚗 Soon afterwards, I found myself coding a **[`Parking management application`](https://github.com/Lodz97/Progetto-M19)**
+- 🚗 Soon afterwards, I found myself coding a **[`parking management application`](https://github.com/Lodz97/Progetto-M19)**
 - ✨ During my master, I learned the black magic behind Machine Learning and **[`Deep Learning`](https://github.com/Lodz97/deep-learning)**
 - 🎰 I was also taught how to gamble responsibly, thanks to **[`Bandit Algorithms`](https://github.com/Lodz97/DIA-Project)**
 - 💘 Recently I discovered my passion for Recommender Systems: it was fun making **[`books recommendetions`](https://github.com/Lodz97/RecSys-PoliMi-2020)** ...
